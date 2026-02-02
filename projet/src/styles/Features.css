@@ -1,0 +1,8 @@
+.features {
+  display: flex;
+  justify-content: space-around;
+  padding: 30px;
+  background: white;
+  margin: 20px 80px;
+  border-radius: 10px;
+}
